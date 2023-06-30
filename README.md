@@ -10,4 +10,4 @@ Pre-requisites: Install MiniConda version 4.12.0 with Python version 3
 - Enter command `conda env create --file environment.yml --name env_from_file` to create the same environment the code was generated with in with the same dependencies
 - Now to activate the created conda environment, enter `conda activate env_from_file`
 - Enter the command `jupyter notebook` and wait for the notebook to open up
-- Click on "heart-disease.ipynb" and Done!!! Experiment with the code as you see fit
+- Click on "Wine Clustering.ipynb" and Done!!! Experiment with the code as you see fit
